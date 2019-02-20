@@ -1,7 +1,7 @@
 {
   "name": "spms-app",
   "version": "0.1.0",
-  "homepage": "http://it-teaching-abo-akademi.github.io/2018-interactive-web-apps-project-ViktorOster",
+  "homepage": "http://ViktorOster.github.io/spms-app",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.1",
