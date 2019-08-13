@@ -22,7 +22,7 @@ const fullDataUrl =
   "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=";
 const latestDataUrl =
   "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=";
-const API_KEY = "UE8SOMJ4OW13XXPG";
+const API_KEY = "";
 
 //some garbage data for initializing the time series, will be replaced
 //when stocks are added
